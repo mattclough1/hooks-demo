@@ -8,7 +8,7 @@ If you want to read the official intro to Hooks before getting into this, let me
 
 And here it is! [Introducing Hooks – React](https://reactjs.org/docs/hooks-intro.html)
 
-# Getting this thing running
+## Getting this thing running
 
 Basically just cd into the repo and run
 
